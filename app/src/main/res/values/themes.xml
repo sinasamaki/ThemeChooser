@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ThemeChooser" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
